@@ -5,7 +5,7 @@
 Hi there! 👋 I’m Deepika, a passionate MERN Stack Developer who enjoys building scalable, efficient, and user-friendly web applications. I focus on creating end-to-end solutions by combining clean front-end interfaces with powerful back-end architectures.
 
 - 🌍 I'm based in coimbatore  
-- 📧 You can contact me at **deepikashanmu06@gmail.com**  
+- 📧 You can contact me at **contact.sdeepika@gmail.com**  
 - 🚀 I'm currently learning **Advanced MERN, System Design & Deployment**  
 - 🤝 I'm open to collaborating on **MERN Stack & Open-Source projects**
 
